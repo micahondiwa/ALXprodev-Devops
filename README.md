@@ -7,3 +7,4 @@
 3. Automating the retrieval of data for multiple Pokémon and store it in separate files.
 4. Creating a report that summarizes data for multiple Pokémon.
 5. Adding robust error handling and retry logic for API requests.
+6. Speeding up data retrieval using parallel processing.
